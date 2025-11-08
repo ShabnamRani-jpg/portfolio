@@ -2,17 +2,8 @@
   "_instructions": "Footer content - copyright and social links.",
   "copyright": {
     "text": "All rights reserved.",
-    "name": "Adarsh Umesh",
+    "name": "Shabnam Rani",
     "year": 2025
   },
-  "links": [
-    {
-      "text": "GitHub",
-      "url": "https://github.com/adarshumesh5"
-    },
-    {
-      "text": "LinkedIn",
-      "url": "https://linkedin.com/in/adarsh-umesh"
-    }
-  ]
+  "links": []
 }

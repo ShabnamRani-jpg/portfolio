@@ -4,32 +4,32 @@
   "sectionTitle": "Skills & Technologies",
   "categories": [
     {
-      "_instructions": "Example category - customize as needed",
-      "category": "Category Name (e.g., Programming Languages)",
+      "category": "Programming Languages",
       "icon": "fas fa-code",
       "skills": [
-        "Skill 1",
-        "Skill 2",
-        "Skill 3",
-        "Add as many as needed"
+        "Python",
+        "SQL"
       ]
     },
     {
-      "category": "Frameworks & Tools",
-      "icon": "fas fa-toolbox",
+      "category": "Tools & Platforms",
+      "icon": "fas fa-wrench",
       "skills": [
-        "Framework 1",
-        "Framework 2",
-        "Tool 1"
-      ]
-    },
-    {
-      "category": "Soft Skills",
-      "icon": "fas fa-users",
-      "skills": [
-        "Leadership",
-        "Communication",
-        "Problem Solving"
+        "MS Project",
+        "MS Excel",
+        "MS SharePoint",
+        "MS Access",
+        "Tableau",
+        "Power BI",
+        "Visual Studio",
+        "Microsoft Visio",
+        "Jira",
+        "HP Quality Center",
+        "Rational ClearQuest",
+        "RTM",
+        "UAT",
+        "CRM",
+        "KPIs"
       ]
     }
   ]

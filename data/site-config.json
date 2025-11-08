@@ -1,14 +1,14 @@
 {
   "_instructions": "Site-wide configuration and meta tags. Update these values for SEO and branding.",
   "meta": {
-    "title": "Adarsh Umesh | Product Manager & Full-Stack Engineer",
-    "description": "Adarsh Umesh - Product Manager & Full-Stack Engineer | Portfolio",
-    "author": "Adarsh Umesh",
-    "keywords": "Product Manager, Full-Stack Engineer, Software Development, JPMorgan Chase, Portfolio"
+    "title": "Shabnam Rani | Business Analyst",
+    "description": "Shabnam Rani - Business Analyst | Portfolio",
+    "author": "Shabnam Rani",
+    "keywords": "Business Analyst, Portfolio, Shabnam Rani"
   },
   "branding": {
-    "name": "Adarsh Umesh",
-    "tagline": "Product Manager & Full-Stack Engineer"
+    "name": "Shabnam Rani",
+    "tagline": "Business Analyst"
   },
   "settings": {
     "year": 2025,

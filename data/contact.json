@@ -6,36 +6,22 @@
       "type": "email",
       "icon": "fas fa-envelope",
       "label": "Email",
-      "value": "connect2adarshum@gmail.com",
-      "href": "mailto:connect2adarshum@gmail.com"
+      "value": "shabnamr214@gmail.com",
+      "href": "mailto:shabnamr214@gmail.com"
     },
     {
       "type": "phone",
       "icon": "fas fa-phone",
       "label": "Phone",
-      "value": "+1 (747) 333-4258",
-      "href": "tel:+17473334258"
+      "value": "5174021656",
+      "href": "tel:5174021656"
     },
     {
       "type": "location",
       "icon": "fas fa-map-marker-alt",
       "label": "Location",
-      "value": "Northridge, CA",
+      "value": "United States",
       "href": null
-    },
-    {
-      "type": "linkedin",
-      "icon": "fab fa-linkedin",
-      "label": "LinkedIn",
-      "value": "in/adarsh-umesh",
-      "href": "https://linkedin.com/in/adarsh-umesh"
-    },
-    {
-      "type": "github",
-      "icon": "fab fa-github",
-      "label": "GitHub",
-      "value": "@adarshumesh5",
-      "href": "https://github.com/adarshumesh5"
     }
   ],
   "form": {
@@ -64,6 +50,6 @@
       "text": "Send Message",
       "type": "primary"
     },
-    "successMessage": "Thank you for your message! This is a demo form. In production, this would send your message."
+    "successMessage": "Thank you for your message! This is a demo form."
   }
 }

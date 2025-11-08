@@ -4,27 +4,17 @@
   "certificationsTitle": "Certifications",
   "education": [
     {
-      "_instructions": "Example education entry - replace with your actual education",
-      "degree": "Degree Name (e.g., Bachelor of Science in Computer Science)",
-      "school": "University/College Name",
-      "period": "Month Year - Month Year",
-      "details": "Optional: Notable achievements, GPA, relevant coursework, etc."
+      "degree": "Master of Science I Administration with Concentration of Digital Management",
+      "school": "Central Michigan University, Mount Pleasant, Michigan, USA",
+      "period": "Dec 2024",
+      "details": ""
     },
     {
-      "degree": "Another Degree",
-      "school": "Institution Name",
-      "period": "Year - Year",
+      "degree": "Bachelor of Science in Medical",
+      "school": "Maharishi Markandeshwar University, Mullana, Ambala, Haryana, India",
+      "period": "May 2019",
       "details": ""
     }
   ],
-  "certifications": [
-    {
-      "name": "Certification Name",
-      "issuer": "Issuing Organization"
-    },
-    {
-      "name": "Another Certification",
-      "issuer": "Organization"
-    }
-  ]
+  "certifications": []
 }

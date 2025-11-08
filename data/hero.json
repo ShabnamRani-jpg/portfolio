@@ -1,21 +1,21 @@
 {
   "_instructions": "Hero section content - the first thing visitors see on your portfolio.",
   "greeting": "Hi, I'm",
-  "name": "Adarsh Umesh",
-  "title": "Product Manager & Full-Stack Engineer",
-  "summary": "Currently driving digital banking innovation at <strong>JPMorgan Chase & Co.</strong> with 5+ years of experience delivering user-focused, scalable solutions across finance and technology domains. Expertise in product strategy, roadmapping, and leading cross-functional teams with a strong technical foundation in full-stack development and agile methodologies.",
+  "name": "Shabnam Rani",
+  "title": "Business Analyst",
+  "summary": "Detail-oriented Business Analyst with 3+ years of experience in insurance and risk domains, supporting enterprise-level digital transformation and process optimization initiatives. Skilled in gathering and translating complex business requirements into actionable deliverables including BRDs, FRDs, and SRS documents. Proficient in analysis using SQL, Python scripting, and Bl tools like Power BI and Tableau to drive insights, optimize workflows, and support strategic decisions.",
   "highlights": [
     {
-      "icon": "fas fa-chart-line",
-      "text": "18% User Adoption Increase"
-    },
-    {
-      "icon": "fas fa-users",
-      "text": "Leading Cross-Functional Teams"
+      "icon": "fas fa-briefcase",
+      "text": "Professional Experience"
     },
     {
       "icon": "fas fa-code",
-      "text": "Full-Stack Technical Expert"
+      "text": "Technical Expertise"
+    },
+    {
+      "icon": "fas fa-users",
+      "text": "Team Collaboration"
     }
   ],
   "cta": {
@@ -23,36 +23,21 @@
       {
         "text": "Get In Touch",
         "href": "#contact",
-        "type": "primary"
+        "type": "primary",
+        "external": false
       },
       {
         "text": "View My Work",
         "href": "#projects",
-        "type": "secondary"
-      },
-      {
-        "text": "Resume",
-        "href": "documents/Adarsh_Umesh_Resume.pdf",
         "type": "secondary",
-        "icon": "fas fa-download",
-        "external": true
+        "external": false
       }
     ]
   },
   "socialLinks": [
     {
-      "platform": "GitHub",
-      "url": "https://github.com/adarshumesh5",
-      "icon": "fab fa-github"
-    },
-    {
-      "platform": "LinkedIn",
-      "url": "https://linkedin.com/in/adarsh-umesh",
-      "icon": "fab fa-linkedin"
-    },
-    {
       "platform": "Email",
-      "url": "mailto:connect2adarshum@gmail.com",
+      "url": "mailto:shabnamr214@gmail.com",
       "icon": "fas fa-envelope"
     }
   ]
